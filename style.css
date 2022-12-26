@@ -1,0 +1,24 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    touch-action: none;
+    cursor: none;
+}
+
+body,
+html { background-color: rgb(244, 243, 238); }
+.header { background-color: #363636; }
+
+.header {
+  padding: 1em;
+}
+.header-logo {
+  width: 5em; height: auto;
+  display: block;
+  margin: 0 auto;
+}
+.header-logo-img {
+  width: 100%; height: auto;
+}
